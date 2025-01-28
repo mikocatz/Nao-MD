@@ -11,6 +11,7 @@ sftp/
 database.json
 config.js
 bot.sh
+.vscode/
 
 plugins/_monitor-mc.js
 plugins/_autoviewonce.js
